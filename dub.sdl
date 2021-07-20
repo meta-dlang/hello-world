@@ -1,0 +1,5 @@
+name "hello-world"
+description "A minimal D application."
+authors "Harrison Ford"
+copyright "Copyright © 2021, Harrison Ford"
+license "proprietary"
